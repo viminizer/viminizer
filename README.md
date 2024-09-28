@@ -1,13 +1,3 @@
-# 💫 About Me:
-I am a dedicated full-stack web developer with a deep passion for crafting dynamic, user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building responsive, intuitive interfaces using HTML, CSS, and JavaScript frameworks like React, while also ensuring smooth functionality on the server side with Node.js, Express, and various database systems such as MySQL and MongoDB.
-
-I thrive on the challenge of solving complex technical problems, whether optimizing database queries, streamlining APIs, or enhancing the overall performance of an application. My development philosophy centers on clean, maintainable code, and I aim to design systems that are scalable and efficient for future growth.
-
-In addition to my technical skills, I am well-versed in version control systems like Git, and I have experience with cloud platforms, DevOps practices, and deploying applications on AWS and Docker. I am always eager to learn and adapt to the latest tools and technologies to improve my development process.
-
-Collaboration is a key aspect of my work, as I enjoy working closely with designers, product managers, and other developers to deliver high-quality solutions that meet both business goals and user needs. I am driven by a desire to continuously grow as a developer while contributing meaningfully to impactful projects.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shoxrux_rasulovic) 
 
@@ -28,5 +18,14 @@ Collaboration is a key aspect of my work, as I enjoy working closely with design
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srxrt&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me:
+I am a dedicated full-stack web developer with a deep passion for crafting dynamic, user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I specialize in building responsive, intuitive interfaces using HTML, CSS, and JavaScript frameworks like React, while also ensuring smooth functionality on the server side with Node.js, Express, and various database systems such as MySQL and MongoDB.
+
+I thrive on the challenge of solving complex technical problems, whether optimizing database queries, streamlining APIs, or enhancing the overall performance of an application. My development philosophy centers on clean, maintainable code, and I aim to design systems that are scalable and efficient for future growth.
+
+In addition to my technical skills, I am well-versed in version control systems like Git, and I have experience with cloud platforms, DevOps practices, and deploying applications on AWS and Docker. I am always eager to learn and adapt to the latest tools and technologies to improve my development process.
+
+Collaboration is a key aspect of my work, as I enjoy working closely with designers, product managers, and other developers to deliver high-quality solutions that meet both business goals and user needs. I am driven by a desire to continuously grow as a developer while contributing meaningfully to impactful projects.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
