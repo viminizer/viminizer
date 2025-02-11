@@ -2,10 +2,6 @@
 👋 Hi there! I’m a full-stack web developer specializing in building engaging and functional web applications using modern technologies like the MERN stack. My portfolio includes a variety of web-based projects, from restaurant and coffee shop websites with user-friendly interfaces to interactive platforms with secure user authentication and scalable APIs. Passionate about crafting responsive, efficient, and maintainable solutions, I aim to create digital experiences that delight users and meet business needs. Check out my repositories to explore my work!
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
