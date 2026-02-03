@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">I design systems and confidently make design decisions I don’t remember making.</h2>
+<h2 align="center">I just try my bestest.</h2>
 
 ###
 
