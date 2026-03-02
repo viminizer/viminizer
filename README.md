@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">I just try my bestest.</h2>
+<h2 align="center">I just try to do my bestest.</h2>
 
 ###
 
