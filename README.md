@@ -1,5 +1,6 @@
 <br clear="both">
-<h2 align="center">I just try to do my bestest.</h2>
+
+<h2 align="center">Build the wrong thing twice, then the right thing once.</h2>
 
 ###
 
@@ -49,26 +50,32 @@
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="28" alt="markdown logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="28" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?logo=apollographql&logoColor=white&style=for-the-badge" height="28" alt="apollographql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="28" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="28" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="28" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="28" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=black&style=for-the-badge" height="28" alt="zig logo"  />
 </div>
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viminizer&radius=16&theme=github-dark&area=false&order=5&custom_title=Contribution%20Graph&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/viminizer/viminizer/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viminizer/viminizer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viminizer/viminizer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viminizer/viminizer/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viminizer/viminizer/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viminizer/viminizer/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/viminizer/viminizer/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
 
 ###
